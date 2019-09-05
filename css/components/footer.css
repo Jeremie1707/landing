@@ -1,0 +1,20 @@
+.footer {
+display : flex;
+justify-content: center;
+}
+
+.footer-icon {
+    padding : 10px 10px;
+    font-size: 50px;
+    color : rgba(59, 193, 97,0.65);
+
+
+}
+
+.footer-icon:hover {
+    padding : 10px 10px;
+    font-size: 50px;
+    color : rgba(59, 193, 97,1);
+
+
+}

@@ -1,0 +1,31 @@
+.card-container {
+display: flex;
+
+
+}
+
+.card {
+width: 25vw;
+border-radius: 5px;
+background-color: white;
+box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+justify-content: space-between;
+padding: 15px;
+margin : 30px;
+text-align: center;
+}
+
+
+.card h2 {
+  `font-size: 12px;
+}
+
+.card p {
+  `font-size: 10px;
+  color: rgba(40,40,40,0.7);
+}
+
+.card img {
+  height: 41vh;
+  width: 279px;
+}

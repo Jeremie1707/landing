@@ -1,0 +1,14 @@
+
+
+.banner {
+background-size: cover;
+background-position: center;
+height : 10vh;
+width: 100vw;
+padding: 200px 0;
+
+}
+
+.banner h1, p {
+  color: white;
+}
